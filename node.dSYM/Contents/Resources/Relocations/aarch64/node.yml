@@ -1,0 +1,10 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/leminebnou/How to program /node'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E5C, symSize: 0x4C }
+  - { offsetInCU: 0x2C79, offset: 0x2C79, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0x0, symBinAddr: 0x100003E5C, symSize: 0x4C }
+  - { offsetInCU: 0x2D14, offset: 0x2D14, size: 0x8, addend: 0x0, symName: __ZN11linked_listC1Ev, symObjAddr: 0x4C, symBinAddr: 0x100003EA8, symSize: 0x2C }
+  - { offsetInCU: 0x2D3C, offset: 0x2D3C, size: 0x8, addend: 0x0, symName: __ZN11linked_list8add_nodeEi, symObjAddr: 0x78, symBinAddr: 0x100003ED4, symSize: 0x98 }
+  - { offsetInCU: 0x2D7C, offset: 0x2D7C, size: 0x8, addend: 0x0, symName: __ZN11linked_listC2Ev, symObjAddr: 0x110, symBinAddr: 0x100003F6C, symSize: 0x1C }
+...
